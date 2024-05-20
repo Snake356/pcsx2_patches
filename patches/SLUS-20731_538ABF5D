@@ -1,0 +1,4 @@
+gametitle=Tony Hawk's Underground (U)[SLUS-20731]
+
+[No Interlancing]
+patch=1,EE,203455CC,word,00000000
