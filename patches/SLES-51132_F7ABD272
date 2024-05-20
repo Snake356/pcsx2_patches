@@ -1,0 +1,4 @@
+gametitle=Tony Hawk's Pro Skater 4 German (PAL)
+
+[No Interlancing]
+patch=1,EE,202B2E14,word,00000000
